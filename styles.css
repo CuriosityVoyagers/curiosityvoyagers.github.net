@@ -1,0 +1,58 @@
+@charset "UTF-8";
+.heading-text {
+    color: #FF00D6;
+    text-align: center;
+    font-size: 5em;
+}
+.emoji {
+    font-size: 10em;
+    text-align: center;
+}
+body center video {
+    width: 1280px;
+    height: 720px;
+}
+.seek {
+    color: #EBFF00;
+    text-decoration: underline;
+    font-style: italic;
+}
+.voyage {
+    color: #00FF30;
+    text-decoration: underline;
+    font-style: italic;
+}
+.curious {
+    color: #FF00D6;
+    text-decoration: underline;
+    font-style: italic;
+}
+.main-text {
+    color: #17F3FF;
+}
+body center h2 {
+    color: #17F3FF;
+    font-size: 3em;
+}
+td form label {
+    color: #17F3FF;
+    padding-right: 25px;
+}
+body center h1 {
+    color: #17F3FF;
+    font-size: 4em;
+}
+.join {
+    color: #FF00D6;
+    font-family: "Comic Sans MS", "Comic Sans MS Bold";
+    font-style: italic;
+    font-weight: 600;
+    font-size: 2em;
+}
+.seek-item {
+    font-size: 1.5em;
+    font-style: italic;
+    font-weight: bold;
+    text-decoration: underline;
+    color: #EBFF00;
+}
